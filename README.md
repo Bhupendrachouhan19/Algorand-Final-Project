@@ -2,7 +2,7 @@
 <img src="" style="margin: 0 auto;" alt="Cross Chain Aggregator" width="200"/>
 </p>
 
-# Cross Chain Aggregator (Blockchian Based Gate-Pass Dapp)
+# Cross Chain Aggregator
 
 
 
