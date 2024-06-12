@@ -31,6 +31,27 @@ We envision a future where financial inclusion is a reality for all, enabling ec
 - Bhupendra
 
 ---
+Some of the Project Visuals / UI:
+1. Signup page:
+         <br/>
+         <img src="https://github.com/Bhupendrachouhan19/Algorand-Final-Project/assets/78025043/1fea9f4c-e566-4008-8aaa-ee2d360046ff" style="margin: 0 auto;" alt="Ga" width="80%"/>
+2. Overview page:
+         <br/>
+         <img src="https://github.com/Bhupendrachouhan19/Algorand-Final-Project/assets/78025043/aa04fa08-5ec5-4e77-9e8f-16089a7f6aed" style="margin: 0 auto;" alt="Ga" width="80%"/>
+3. Transaction page:
+         <br/>
+         <img src="https://github.com/Bhupendrachouhan19/Algorand-Final-Project/assets/78025043/96645b26-4314-40a5-aef7-7bb79576c615" style="margin: 0 auto;" alt="Ga" width="80%"/>
+4. Yield Farm page:
+         <br/>
+         <img src="https://github.com/Bhupendrachouhan19/Algorand-Final-Project/assets/78025043/4c53e106-69d6-4327-a163-a931b4fd70b7" style="margin: 0 auto;" alt="Ga" width="80%"/>
+5. Educational page:
+         <br/>
+         <img src="https://github.com/Bhupendrachouhan19/Algorand-Final-Project/assets/78025043/eda79dfd-5d11-4314-9cd2-0da7e1faa527" style="margin: 0 auto;" alt="Ga" width="80%"/>
+6. Community page:
+         <br/>
+         <img src="https://github.com/Bhupendrachouhan19/Algorand-Final-Project/assets/78025043/505ac527-47b6-45c3-b57b-565c95887491" style="margin: 0 auto;" alt="Ga" width="80%"/>
+         
+---
 ## 🎯 Problems we are Targeting:
 #### 1. Liquidity Fragmentation
 - Dispersed funds across platforms.
