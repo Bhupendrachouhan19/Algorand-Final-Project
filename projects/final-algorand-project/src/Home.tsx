@@ -1,8 +1,8 @@
 // src/components/Home.tsx
 import { useWallet } from '@txnlab/use-wallet'
 import React, { useState } from 'react'
-import ConnectWallet from './components/ConnectWallet'
-import Transact from './components/Transact'
+import ConnectWallet from './components/walletConnect/ConnectWallet'
+import Transact from './components/walletConnect/Transact'
 
 interface HomeProps {}
 
@@ -22,7 +22,7 @@ const Home: React.FC<HomeProps> = () => {
   return (
     <div className="hero min-h-screen bg-teal-400">
       <div className="hero-content text-center rounded-lg p-6 max-w-md bg-white mx-auto">
-        <div className="max-w-md">
+        <div className="max-w-full">
           <h1 className="text-4xl">
             Welcome to <div className="font-bold">AlgoKit 🙂</div>
           </h1>
