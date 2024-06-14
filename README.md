@@ -23,12 +23,12 @@ We envision a future where financial inclusion is a reality for all, enabling ec
 #### **Our platform is here to change that.**
 
 ---
-## 👥 Team Members:
-- Light
-- Victoria
-- Seree
-- Favour
-- Bhupendra
+## 👥 Team Members and their roles:
+- Light (Project Lead)
+- Victoria (Lead Designer)
+- Seree (Designer)
+- Favour (Backend and smart contract dev)
+- Bhupendra (Frontend Dev)
 
 ---
 Some of the Project Visuals / UI:
